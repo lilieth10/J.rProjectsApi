@@ -1,0 +1,9 @@
+# Ignorar directorio de nodemodules
+node_modules/
+
+# Ignorar archivos de configuración
+config.json
+.env
+
+# Ignorar archivos generados por TypeScript
+/dist/
